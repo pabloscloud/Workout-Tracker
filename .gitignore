@@ -65,7 +65,7 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
-app/schemas/com.example.android.january2022.db.GymDatabase/1.json
+app/schemas/cloud.pablos.workouts.db.GymDatabase/1.json
 *.json
 /app/signing/
 .idea

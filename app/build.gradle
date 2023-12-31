@@ -19,11 +19,11 @@ android {
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.alveteg.simon.january2022"
+        applicationId "cloud.pablos.workouts"
         minSdk 28
         targetSdk 33
-        versionCode 1
-        versionName "0.2.0"
+        versionCode 10
+        versionName "0.1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
@@ -73,7 +73,7 @@ android {
             excludes += '/META-INF/{AL2.0,LGPL2.1}'
         }
     }
-    namespace 'com.example.android.january2022'
+    namespace 'cloud.pablos.workouts'
 }
 
 dependencies {

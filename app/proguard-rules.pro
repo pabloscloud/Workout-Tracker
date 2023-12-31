@@ -20,7 +20,7 @@
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
 
--keepclassmembernames class com.example.android.january2022.db.entities.** { *; }
--keepclassmembernames class com.example.android.january2022.ui.DatabaseModel {
+-keepclassmembernames class cloud.pablos.workouts.db.entities.** { *; }
+-keepclassmembernames class cloud.pablos.workouts.ui.DatabaseModel {
     <fields>;
  }
