@@ -1,4 +1,6 @@
-# Workout-Tracker
+This is a fork of the [repository by Simon Alvetag](https://github.com/simonalveteg/Workout-Tracker)
+
+# Workouts
 A Workout Tracker for Android written with Jetpack Compose using MVVM architecture, a room database and dependency injection with dagger hilt.
 
 I got into android app development in order to make a workout tracking app that is easy to use, looks good, doesn't have the unnecessary bloat like many other apps on the app and that is free. This app is far from done, but the most important functionality is there and I periodically spend lots of time improving it. 
